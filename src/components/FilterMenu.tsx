@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { filters } from "../data/filterMenu";
+import { filters } from "../pages/data/filterMenu";
 import { FaDollarSign } from "react-icons/fa";
 
 const FilterMenu = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import { FaAngleDown, FaThLarge, FaTimes } from "react-icons/fa";
-import { laptops } from "../data/products";
+import { laptops } from "../pages/data/products";
 import Product from "./Product";
 
 const Products = () => {

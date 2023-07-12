@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Navbar from "./components/Navbar";
-import FilterMenu from "./components/FilterMenu";
-import Products from "./components/Products";
+import Navbar from "../components/Navbar";
+import FilterMenu from "../components/FilterMenu";
+import Products from "../components/Products";
 
 export default function Home() {
   return (
