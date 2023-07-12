@@ -16,7 +16,7 @@ const Products = () => {
       <div className="md:flex justify-between items-center">
         <p className="text-lg font-semibold">
           1-16 over 7,000 result for{" "}
-          <span className="text-orange-500">"Asus"</span>
+          <span className="text-orange-500">&quot;Asus&quot;</span>
         </p>
         <div className="flex items-center gap-x-3">
           <p className="text-lg">Sort By:</p>
