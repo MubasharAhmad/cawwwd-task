@@ -10,7 +10,7 @@ import {
   FaShoppingCart,
   FaList,
 } from "react-icons/fa";
-import { navbarLinks } from "../pages/data/navbar";
+import { navbarLinks } from "../data/navbar";
 
 const Navbar = () => {
   const [links, setLinks] = useState(navbarLinks);
